@@ -1,2 +1,2 @@
-docker build -t labo:centos7 ./
+docker build -t labo:centos7 ./  
 docker run -itd --name centos7 IMAGEID /bash/bin
